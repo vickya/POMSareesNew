@@ -11,6 +11,7 @@ import com.online.sarees.pages.MyAccountPage;
 
 public class ChangePasswordTest {
 
+	// This is the test for changing the password
 	@Test
 	public void changePassword(){
 		HomePage homepage = new HomePage();
